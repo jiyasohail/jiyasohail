@@ -1,91 +1,122 @@
-# Hi, I'm Javariya Sohail 👋
+<div align="center">
 
-🚀 Computer Science Student | Data Analyst | Aspiring Business Analyst / ML Explorer  
+# 👋 Hi, I'm Javariya Sohail  
+
+📊 Data Analyst | CS Student | Aspiring Business Analyst  
+💡 Turning raw data into real-world decisions  
+
+</div>
 
 ---
 
-## 🌟 About Me
-I’m a Computer Science student who loves turning raw data into insights that actually make sense in the real world.  
+## 🌐 🚀 Portfolio Overview
 
-Right now, I’m focused on:
-- 📊 Data Analysis & Visualization  
-- 🧠 Machine Learning fundamentals  
-- 📈 Business & product insights  
-- ☁️ Exploring cloud + deployment basics  
+Welcome to my GitHub portfolio — a space where I explore data, build analytical systems, and turn datasets into insights that matter.
 
-I enjoy building projects that connect **data → decisions → impact**.
+🎯 My focus areas:
+- Data Analysis & Visualization  
+- Business Intelligence  
+- Machine Learning basics  
+- Data-driven decision making  
 
 ---
 
 ## 💼 Experience
-### 🚗 IT Intern @ Toyota Motors
-- Working on real-world data systems & backend workflows  
-- Exploring database migration (Oracle → AWS-based systems)  
-- Hands-on exposure to enterprise-level data consistency checks  
-- Building small full-stack practice projects (Laravel + React)
 
-### 🎤 PR Head @ ACM MAJU
-- Managing outreach, events, and communication strategies  
-- Coordinating tech events and student engagement activities  
+### 🚗 IT Intern — Toyota Motors
+- Working with real enterprise datasets and systems  
+- Supporting database migration (Oracle → AWS-based systems)  
+- Ensuring data consistency across platforms  
+- Exposure to full data pipelines in a corporate environment
 
----
+### 🌐 Data Science Intern (Remote) — 10Pearls
+- Working on real-world data science tasks in a remote corporate environment
+- Building an Air Quality Index (AQI) monitoring system as a core internship project
+- Performing data preprocessing, analysis, and visualization on environmental datasets
+- Creating insights and dashboards to track pollution trends over time
+- Collaborating in an agile workflow with industry-level standards
+- Gaining hands-on experience in end-to-end data pipeline development 
 
-## 🧠 Tech Stack
-**Languages & Tools:**
-Python • SQL • C++ • JavaScript • HTML • CSS  
-
-**Data & ML:**
-Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • Excel • Power BI  
-
-**Tools & Platforms:**
-Git • GitHub • Streamlit • Jupyter • VS Code  
+### 🎤 PR Head — ACM MAJU
+- Managed communication strategies & event outreach  
+- Coordinated technical and non-technical university events  
+- Built leadership & stakeholder communication skills  
 
 ---
 
 ## 📊 Featured Projects
 
-### 📌 Car Service Data Analysis (Internship Project)
-- Performed EDA on real service dataset  
-- Built visual insights + heatmaps  
-- Identified patterns in labor & service trends  
-
-### 📌 Streamlit AQI Dashboard
-- Real-time air quality monitoring dashboard  
-- Data visualization + interactive UI  
-- Deployed using Streamlit Cloud  
-
 ### 📌 Loan Approval Prediction System
-- Built a machine learning model to predict loan approval outcomes  
-- Performed data cleaning, feature engineering, and preprocessing  
-- Trained and evaluated classification models for accuracy optimization  
-- Focused on real-world financial decision-making insights   
+- Built ML classification model to predict loan approval outcomes  
+- Performed data cleaning, preprocessing & feature engineering  
+- Evaluated multiple models for performance optimization  
+- Focused on financial risk analysis insights  
 
 ---
 
-## 📈 GitHub Stats
-![Jiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyasohail&show_icons=true&theme=tokyonight)
+### 📌 Car Service Data Analysis (Internship Project)
+- Conducted exploratory data analysis on real service data  
+- Built heatmaps and visual dashboards for insights  
+- Identified patterns in service demand and labor trends  
 
-## 🔥 Streak Stats
+---
+
+### 📌 AQI Monitoring Dashboard
+- Built interactive Streamlit dashboard for air quality analysis  
+- Integrated real-time visualization of pollution metrics  
+- Deployed web-based analytics system  
+
+---
+
+## 🧠 Skills & Tools
+
+**Languages**
+Python • SQL • C++ • JavaScript • HTML • CSS  
+
+**Data Analytics**
+Pandas • NumPy • Matplotlib • Seaborn • Excel • Power BI  
+
+**Machine Learning**
+Scikit-learn • Basic ML Models • Data Preprocessing • Feature Engineering  
+
+**Tools**
+Git • GitHub • Streamlit • Jupyter • VS Code  
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiyasohail&show_icons=true&theme=tokyonight)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jiyasohail&theme=tokyonight)
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=jiyasohail&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyasohail&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
-## 📌 Current Goals
-- 📊 Become strong in Data Analytics & Business Analysis  
-- ☁️ Learn cloud + deployment basics  
-- 🧠 Improve ML understanding through real projects  
-- 💼 Land a full-time analyst role after graduation  
+## 📌 Current Focus
+
+- 📊 Becoming job-ready as a Data Analyst  
+- ☁️ Learning cloud + deployment basics  
+- 🧠 Strengthening ML fundamentals  
+- 📈 Building more real-world portfolio projects  
 
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/javariyasohail  
+
+- 💼 LinkedIn: https://linkedin.com/in/javariyasohail 
 - 💻 GitHub: https://github.com/jiyasohail  
-- 📧 Email: javeriasohail305@gmail.com
+- 📧 Email: javeriasohail305@gmail.com  
 
 ---
 
-⚡ "Turning data into decisions, one project at a time."
+<div align="center">
+
+⚡ *"Data is not just numbers — it's decisions waiting to be made."*  
+
+</div>
