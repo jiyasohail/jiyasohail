@@ -2,8 +2,8 @@
 
 # 👋 Hi, I'm Javariya Sohail  
 
-📊 Data Analyst | CS Student | Aspiring Business Analyst  
-💡 Turning raw data into real-world decisions  
+📊 Business & Data Analyst | Business Intelligence | SQL • Power BI • Python  
+💡 Transforming data into insights, dashboards, and business solutions  
 
 </div>
 
@@ -11,80 +11,96 @@
 
 ## 🌐 🚀 Portfolio Overview
 
-Welcome to my GitHub portfolio — a space where I explore data, build analytical systems, and turn datasets into insights that matter.
+Welcome to my GitHub portfolio — a collection of data analytics, business intelligence, and technology projects focused on solving real-world problems through data-driven solutions.
+
+My work combines technical analysis with business understanding to transform raw data into meaningful insights, interactive dashboards, and actionable recommendations.
 
 🎯 My focus areas:
-- Data Analysis & Visualization  
-- Business Intelligence  
-- Machine Learning basics  
-- Data-driven decision making  
+- Business Analysis & Requirements Understanding
+- Data Analytics & Visualization
+- Business Intelligence & Reporting
+- Dashboard Development
+- Data-driven Decision Making
+- Process Improvement & Automation
 
 ---
 
 ## 💼 Experience
 
 ### 🚗 IT Intern — Toyota Motors
-- Working with real enterprise datasets and systems  
-- Supporting database migration (Oracle → AWS-based systems)  
-- Ensuring data consistency across platforms  
-- Exposure to full data pipelines in a corporate environment
+
+- Worked with enterprise-level datasets and business systems to support reporting and analysis activities
+- Assisted in database migration activities from Oracle-based systems to AWS-based infrastructure
+- Performed data validation and consistency checks across different platforms
+- Used SQL and analytical approaches to understand and improve data workflows
+- Gained exposure to enterprise data processes, reporting requirements, and business operations
+
+---
 
 ### 🌐 Data Science Intern (Remote) — 10Pearls
-- Working on real-world data science tasks in a remote corporate environment
-- Building an Air Quality Index (AQI) monitoring system as a core internship project
-- Performing data preprocessing, analysis, and visualization on environmental datasets
-- Creating insights and dashboards to track pollution trends over time
-- Collaborating in an agile workflow with industry-level standards
-- Gaining hands-on experience in end-to-end data pipeline development 
+
+- Worked on real-world data science and analytics tasks in a professional environment
+- Developed an Air Quality Index (AQI) monitoring system using data processing and visualization techniques
+- Performed data preprocessing, exploratory data analysis, and visualization on environmental datasets
+- Built dashboards to communicate trends and insights effectively
+- Collaborated in an agile environment while following industry development practices
+
+---
 
 ### 🎤 PR Head — ACM MAJU
-- Managed communication strategies & event outreach  
-- Coordinated technical and non-technical university events  
-- Built leadership & stakeholder communication skills  
+
+- Managed communication strategies and technical event outreach
+- Coordinated university-level technical and non-technical initiatives
+- Worked with teams and stakeholders to organize successful events
+- Strengthened leadership, communication, and project coordination skills
 
 ---
 
-## 📊 Featured Projects
+# 📊 Featured Projects
 
-### 📌 Loan Approval Prediction System
-- Built ML classification model to predict loan approval outcomes  
-- Performed data cleaning, preprocessing & feature engineering  
-- Evaluated multiple models for performance optimization  
-- Focused on financial risk analysis insights  
+## 📌 Loan Approval Prediction System
 
----
-
-### 📌 Car Service Data Analysis (Internship Project)
-- Conducted exploratory data analysis on real service data  
-- Built heatmaps and visual dashboards for insights  
-- Identified patterns in service demand and labor trends  
+- Developed a machine learning-based classification system to analyze loan approval patterns
+- Performed data cleaning, preprocessing, and feature engineering
+- Compared multiple machine learning models for performance evaluation
+- Analyzed financial data patterns to support risk-based decision-making
 
 ---
 
-### 📌 AQI Monitoring Dashboard
-- Built interactive Streamlit dashboard for air quality analysis  
-- Integrated real-time visualization of pollution metrics  
-- Deployed web-based analytics system  
+## 📌 Car Service Data Analysis (Internship Project)
+
+- Conducted exploratory data analysis on automotive service datasets
+- Used Python for data cleaning, analysis, and visualization
+- Identified trends in service demand, labor patterns, and operational performance
+- Created visual insights to support business understanding and decision-making
 
 ---
 
-## 🧠 Skills & Tools
+## 📌 AQI Monitoring Dashboard
 
-**Languages**
-Python • SQL • C++ • JavaScript • HTML • CSS  
-
-**Data Analytics**
-Pandas • NumPy • Matplotlib • Seaborn • Excel • Power BI  
-
-**Machine Learning**
-Scikit-learn • Basic ML Models • Data Preprocessing • Feature Engineering  
-
-**Tools**
-Git • GitHub • Streamlit • Jupyter • VS Code  
+- Developed an interactive Streamlit dashboard for environmental data analysis
+- Integrated data visualization techniques to monitor pollution trends
+- Designed an analytics interface focused on clear reporting and insights generation
 
 ---
 
-## 📈 GitHub Analytics
+# 🧠 Skills & Tools
+
+### Data Analytics & Business Intelligence
+Python • SQL • Excel • Power BI • Data Visualization • Dashboard Development • Reporting • Exploratory Data Analysis
+
+### Business Analysis
+Requirements Gathering • Business Process Analysis • Documentation • Stakeholder Communication • Problem Solving • Process Improvement
+
+### Programming & Data
+Python • SQL • C++ • JavaScript • Pandas • NumPy • Matplotlib • Scikit-learn
+
+### Tools
+Git • GitHub • Streamlit • Jupyter Notebook • VS Code • SQL Server
+
+---
+
+# 📈 GitHub Analytics
 
 <div align="center">
 
@@ -98,18 +114,18 @@ Git • GitHub • Streamlit • Jupyter • VS Code
 
 ---
 
-## 📌 Current Focus
+# 📌 Current Focus
 
-- 📊 Becoming job-ready as a Data Analyst  
-- ☁️ Learning cloud + deployment basics  
-- 🧠 Strengthening ML fundamentals  
-- 📈 Building more real-world portfolio projects  
+- Building solutions in Business Intelligence and Data Analytics
+- Developing interactive dashboards and reporting systems
+- Strengthening Business Analysis and stakeholder communication skills
+- Creating data-driven solutions that connect technology with business needs
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/javariyasohail 
+- 💼 LinkedIn: https://linkedin.com/in/javariyasohail  
 - 💻 GitHub: https://github.com/jiyasohail  
 - 📧 Email: javeriasohail305@gmail.com  
 
@@ -117,6 +133,6 @@ Git • GitHub • Streamlit • Jupyter • VS Code
 
 <div align="center">
 
-⚡ *"Data is not just numbers — it's decisions waiting to be made."*  
+⚡ *"Turning data into insights, and insights into better decisions."*
 
 </div>
